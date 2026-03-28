@@ -10,8 +10,3 @@
 ## How to Run
 
 Open `ModernCryptography.ipynb` in JupyterLab and run all cells.
-
-```bash
-pip install numpy sympy matplotlib cryptography
-jupyter lab ModernCryptography.ipynb
-```
